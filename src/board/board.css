@@ -1,0 +1,12 @@
+.main-table{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    width: 90vh;
+    height: 9npm0vh;
+    background-color: antiquewhite;
+   
+}
+.black-slot{
+    background-color: lightcoral;
+}
